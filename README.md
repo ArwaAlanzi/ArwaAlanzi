@@ -1,5 +1,5 @@
 
-   [![Typing SVG](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)
+![Typing SVG](https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif)
 #  Hello everyone!, I'm Arwa Alanzi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=www.linkedin.com/in/arwaalanzi)
 
